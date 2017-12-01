@@ -57,3 +57,6 @@ Use refactoring techniques like _composing methods_ and _moving features between
 
 To check a possible solution for the exercise, execute the following command:
 `$ git checkout 2_monolith_with_packages`
+
+
+
